@@ -3,7 +3,7 @@
 
 [Benjamin J. Radford](https://benradford.github.io), Leonardo M. Apolonio, Antonio J. Trias, Jim A. Simpson 
 
-_Proceedings of the 2017 MSS National Symposium on Sensor and Data Fusion
+_Proceedings of the 2017 MSS National Symposium on Sensor and Data Fusion_
 
 Paper available [here](https://arxiv.org/abs/1803.10769).
 
